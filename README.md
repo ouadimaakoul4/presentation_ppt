@@ -28,19 +28,18 @@ Ce dépôt est conçu pour :
   - Un dossier pour le mini-projet.  
 - Ajoutez un fichier `README.md` dans chaque dossier pour expliquer le contenu et donner des détails sur vos projets.  
 
-### Exemple d'organisation :  
-/Mon-Profil/
-
-Presentation_Personnelle.pptx
+### 4. Exemple d'organisation :  
+- /Mon-Profil/
+- Presentation_Personnelle.pptx
  -- README.md
  -- /Mini-Projet/Mini_Projet.pptx
 
-## 🛠️ Pourquoi utiliser GitHub ?  
+### 5. 🛠️ Pourquoi utiliser GitHub ?  
 1. **Créer un portfolio en ligne** : Montrez vos compétences aux recruteurs ou partenaires professionnels.  
 2. **Collaborer efficacement** : Partagez vos idées et échangez avec vos camarades.  
 3. **Apprendre la gestion de version** : Une compétence clé dans le domaine du développement logiciel.  
 
-## ✅ Conseils pour réussir  
+### 6. ✅ Conseils pour réussir  
 - **Soyez créatif** dans vos présentations : utilisez des visuels attractifs et une structure claire.  
 - **Soignez vos fichiers README** : expliquez vos projets de manière concise et détaillée.  
 - **Partagez vos progrès** : collaborez en utilisant les fonctionnalités de GitHub (pull requests, issues).  
